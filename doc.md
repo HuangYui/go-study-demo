@@ -38,3 +38,6 @@ https://lushunjian.gitee.io/2021/03/02/golang-de-csp-bing-fa-mo-xing/
 Java 和 Go 线程模型
 
 https://lushunjian.gitee.io/2021/03/09/java-he-golang-de-xian-cheng-mo-xing/
+
+用户态 内核态
+https://zhuanlan.zhihu.com/p/608775807
