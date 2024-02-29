@@ -26,6 +26,10 @@ https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md
 
 ##### 文章收录
 
+java线程模型
+
+https://blog.csdn.net/qq_37160341/article/details/114576924
+
 Go多线程模型
 
 https://cloud.tencent.com/developer/article/1858410
